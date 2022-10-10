@@ -1,5 +1,19 @@
-# vue-animations-tutorial
-All course files for the Vue Animations &amp; Transitions tutorial on the Net Ninja YouTube channel.
+# vue-animations
 
-## Starter Files
-To get access to the starter files, select the 'starter' branch from the branch drop-down (top-left) & then press the green 'code' button to download the zip file.
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
